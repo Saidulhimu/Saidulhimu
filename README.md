@@ -13,7 +13,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saidul--dev--mern.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saidul-dev-mern.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md._Saidul_Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-saidul-islam-a6a942414)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md._Saidul_Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidul-dev/)
 [![Email](https://img.shields.io/badge/Email-saidulhimuu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidulhimuu@gmail.com)
 
 📍 **Location:** Pabna, Bangladesh
