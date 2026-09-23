@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D2FF&height=200&section=header&text=Md.%20Saidul%20Islam%20(Himu)&fontSize=40&fontColor=fff&animation=twinkling)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D2FF&height=200&section=header&text=Md.%20Saidul%20Islam&fontSize=40&fontColor=fff&animation=twinkling)
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
