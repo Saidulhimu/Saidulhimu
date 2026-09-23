@@ -3,7 +3,7 @@
 <!-- Banner Image -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D2FF&height=200&section=header&text=Md.%20Saidul%20Islam%20(Himu)&fontSize=42&fontColor=fff&animation=twinkling)
 
-# 👋 Hi, I'm Md. Saidul Islam (Himu)
+# 👋 Hi, I'm Md. Saidul Islam
 ### 🚀 Full-Stack Web Developer | Next.js & React.js | AI/NLP Integrator
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saidul--dev--mern.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saidul-dev-mern.vercel.app)
