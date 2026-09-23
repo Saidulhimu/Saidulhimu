@@ -10,11 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+Next.js+%26+React.js;AI%2FNLP+Integrator;CSE+Graduate+from+BUBT;Building+Scalable+%26+Clean+Web+Apps" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saidul--dev--mern.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saidul-dev-mern.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md._Saidul_Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidul-dev/)
 [![Email](https://img.shields.io/badge/Email-saidulhimuu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidulhimuu@gmail.com)
+
+<br/>
 
 📍 **Location:** Pabna, Bangladesh
 
@@ -56,11 +58,12 @@
 
 <div align="center">
 
-![Saidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidulhimu&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Saidulhimu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saidul's GitHub Stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidulhimu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidulhimu&layout=compact&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saidulhimu&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidulhimu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
 
 </div>
 
