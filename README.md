@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Banner Image -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D2FF&height=200&section=header&text=Md.%20Saidul%20Islam&fontSize=40&fontColor=fff&animation=twinkling)
+<!-- Custom AI Banner Image -->
+![Header Banner](./banner.png)
+
+<br/>
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
