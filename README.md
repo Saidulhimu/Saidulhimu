@@ -21,18 +21,18 @@
 ---
 
 ### 👨‍💻 About Me
-* 🎓 **Computer Science & Engineering** graduate from **Bangladesh University of Business and Technology (BUBT)**[cite: 2].
-* 💻 **Frontend Developer** specializing in building responsive, high-performance web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**[cite: 2].
-* 🤖 Experienced in integrating **Machine Learning & Natural Language Processing (NLP)** models into web tools with **SHAP/LIME** explainability[cite: 2].
-* 🏆 **1st Runner Up** at BUBT Brainstorming Week Competition & Active Technical Member of BUBT IT Club[cite: 2].
-* 🎯 **Goal:** Writing clean, maintainable code, optimizing web performance, and advancing full-stack capabilities[cite: 2].
+* 🎓 **Computer Science & Engineering** graduate from **Bangladesh University of Business and Technology (BUBT)**.
+* 💻 **Frontend Developer** specializing in building responsive, high-performance web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**.
+* 🤖 Experienced in integrating **Machine Learning & Natural Language Processing (NLP)** models into web tools with **SHAP/LIME** explainability.
+* 🏆 **1st Runner Up** at BUBT Brainstorming Week Competition & Active Technical Member of BUBT IT Club.
+* 🎯 **Goal:** Writing clean, maintainable code, optimizing web performance, and advancing full-stack capabilities.
 
 ---
 
 ### 🔭 Current Activities
 - 🚀 **Building with Next.js:** Developing modern web applications with **Next.js (App Router, SSR, API Routes)**.
-- 🧪 **Project Lead:** [DharmaSafe](https://github.com/Saidulhimu) — AI-Powered Web Aggression Detection System (91.5% accuracy)[cite: 2].
-- 🎓 **Skill Enhancement:** Advancing full-stack engineering skills through **Programming Hero**[cite: 2].
+- 🧪 **Project Lead:** [DharmaSafe](https://github.com/Saidulhimu) — AI-Powered Web Aggression Detection System (91.5% accuracy).
+- 🎓 **Skill Enhancement:** Advancing full-stack engineering skills through **Programming Hero**.
 
 ---
 
