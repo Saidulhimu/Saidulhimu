@@ -58,8 +58,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saidulhimu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saidul's GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidulhimu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 
 <br/><br/>
 
